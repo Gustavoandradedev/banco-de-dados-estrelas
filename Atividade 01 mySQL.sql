@@ -1,4 +1,4 @@
-/* 1- Criando a tabela cidade. */
+/* 1- Criando a tabela cidade */
 
 create table estrelas.cidade (
 nome varchar(50) not null,
